@@ -5,7 +5,7 @@ Olá pessoal, gerei esse conteúdo usando IAs, falando sobre a área de CyberSec
 
 ## 🤖 Tecnologias Utilizadas
  [ChatGPT (OpenAI)](https://chatgpt.com)<br/>
- [Leonardo AI](leonardo.ai)<br/>
+ [Leonardo AI](https://app.leonardo.ai/)<br/>
  [OpenArt AI](https://openart.ai)<br/>
 
 ## 🧐 Processo de Criação
